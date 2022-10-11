@@ -1,0 +1,2 @@
+#!/bin/user
+echo "hello $USER"
